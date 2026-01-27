@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I’m Rareș Vasile (vasile-rares)!
 
-<!--
-**vasile-rares/vasile-rares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Executing continuous evolution. Decrypting complexity. Sharing the source.**
 
-Here are some ideas to get you started:
+## 🧠 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW45ejMxYzh5bDFtbXYwdWhlaGJpYzhyb2syMWR0Y2o3dG9qZTh0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/mQMBdfSFrvA7iZsWDH/giphy.gif" width="150px" align="right">
+
+- 💻 Top skills: **Web Development**, **Game Development**
+- 🛠️ Technologies & Tools: **C#**, **C++**, **React**, **Angular**, **SQL** + basic knowledge of Python
+- 🕸️ Fun fact, I explored **ethical hacking** and started **3D modeling** as a hobby when I was just 12 years old.
+- 🤝 Always open to collaboration and new ideas!
+
+## 🌐 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/raresvasile/) 
+- [Email](mailto:raresmihail2004@gmail.com)
+
+---
+
+> _“It’s a leap of faith. That’s all it is.”_
+
+💡 **Interested in collaborating?**  
+Feel free to reach out or contribute to any of my projects!
