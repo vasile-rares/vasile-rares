@@ -4,7 +4,7 @@
 
 ## 🧠 About Me
 
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW45ejMxYzh5bDFtbXYwdWhlaGJpYzhyb2syMWR0Y2o3dG9qZTh0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/mQMBdfSFrvA7iZsWDH/giphy.gif" width="150px" align="right">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW45ejMxYzh5bDFtbXYwdWhlaGJpYzhyb2syMWR0Y2o3dG9qZTh0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/mQMBdfSFrvA7iZsWDH/giphy.gif" width="140px" align="right">
 
 - 💻 Top skills: **Web Development**, **Game Development**
 - 🛠️ Technologies & Tools: **C#**, **C++**, **React**, **Angular**, **SQL** + basic knowledge of Python
