@@ -12,7 +12,7 @@
 </a>
 
 - 💻 Top skills: **Web Development**, **Game Development**
-- 🛠️ Technologies & Tools: **C#**, **C++**, **React**, **Angular**, **SQL** + basic knowledge of Python
+- 🛠️ Technologies & Tools: **C#**, **C++**, **React**, **Angular**, **SQL** + basic knowledge of Python and Java
 - 🕸️ Fun fact, I explored **ethical hacking** and started **3D modeling** as a hobby when I was just 12 years old.
 - 🤝 Always open to collaboration and new ideas!
 
