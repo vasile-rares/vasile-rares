@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Rareș Vasile!
 
-> **Clean on the surface, solid underneath, paranoid where it counts.**
+_Clean on the surface, solid underneath, paranoid where it counts._
 
 ## About Me
 
