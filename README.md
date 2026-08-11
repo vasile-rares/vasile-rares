@@ -13,7 +13,7 @@
 
 - 💻 Top skills: **Web Development**, **Game Development**
 - 🛠️ Technologies & Tools: **C# / .NET**, **C++**, **Node.js**, **React**, **Angular**, **SQL**, **Next.js**
-- 🕸️ Fun fact, I explored **ethical hacking** and started **3D modeling** as a hobby when I was just 12 years old.
+- 🕸️ Fun fact: I'm into **cybersecurity & ethical hacking**, and I sing.
 
 ## Let’s Connect
 
