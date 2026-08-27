@@ -12,7 +12,7 @@ _Clean on the surface, solid underneath, paranoid where it counts._
 </a>
 
 - 💻 Top skills: **Web Development**, **Game Development**
-- 🛠️ Technologies & Tools: **C# / .NET**, **C++**, **Node.js**, **React**, **Angular**, **SQL**, **Next.js**
+- 🛠️ Technologies & Tools: **Next.js**, **React**, **Angular**, **.NET**, **Node.js**, **SQL**, **C++**
 - 🕸️ Fun fact: I'm into **cybersecurity & ethical hacking**, and I sing.
 
 ## Let’s Connect
