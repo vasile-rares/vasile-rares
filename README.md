@@ -6,6 +6,8 @@
 </picture>
 <!-- GITHUBWALLPAPER:END -->
 
+<p></p>
+
 > _“It’s a leap of faith. That’s all it is.”_
 
 💡 **Open to collaboration** - feel free to reach out or contribute to any of my projects!
